@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* 
+ * Fonts:
+ * font-family: 'Roboto Condensed', sans-serif;
+ * font-family: 'Roboto', sans-serif;
+ *
+ */
+
+/*
+ * Body of Document
+ */
+
+html{
+	font-family: 'Roboto', sans-serif;
+	font-size: 0.9em;
+}
+#wrapper{
+	width: 80%;
+	margin: auto;
+}
+
+/*
+ * Headers
+ */
+
+h1{
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: center;
+}
